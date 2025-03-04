@@ -12,14 +12,14 @@ API_ID = int(getenv("26179888",))
 API_HASH = getenv("b63b1c69cf3bcd032d4a2463cc84be2e",)
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("7398419634:AAHR5LAGYKbCeTi5NfIVRRTw4G3yVRRgVS0",)
+BOT_TOKEN = getenv("7725357171:AAFSOBIGkh4uywQmagnr_89xaErKOTpfoow",)
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("mongodb+srv://denji:@denji.0qi3h.mongodb.net/?retryWrites=true&w=majority&appName=denji",)
 MUSIC_BOT_NAME = getenv("@Lonelyxmusic_bot",)
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
+DURATION_LIMIT_MIN = int(getenv("0.0.0.0", 900))
 
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("-1002242379033",))
@@ -75,7 +75,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 # Get your pyrogram v2 session
 STRING1 = getenv("STRING_SESSION",  None)
-STRING2 = getenv("STRING_SESSION2", None)
+STRING2 = getenv("BQAm8C4AO8wJFZuVkywWc1jM8qkjIgOscJd4zI_d2x7vTotj4o9y0OYI1aTnDtqkOehzH787uEQowUs7BF36m-FfUNWuNNTD1ICOPlL-XL4zfvoGJuRC50538RsTll7V1_CuIRqmFL7U-_BVSc4ACPQ9eAElq7SGQGw4KJXJ7IZSwxKbIFtWXGUPgsoqai_Wm5gWVKaEj_oAQbw6b5uBGclrPaoKsIdvLnJ5T-MbPKh4EEAlCVlM5RoEzsO8-YWSSRsC23vMYIA1NGD545Cr1ZxxL8x3anM2EGHpaTKEz6CN8ilnVM-T3IgGK9oodZK0Rg_4VORmD5KgU2BwbwMdiKJK1kC9ogAAAAG4-uyyAQ",)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
